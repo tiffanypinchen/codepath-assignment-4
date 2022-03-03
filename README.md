@@ -6,15 +6,15 @@ codepath assignment 4
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **72** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [*] User can compose a tweet. (4pts)
+- [*] User can favorite a tweet. (4pts)
+- [* ] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -26,4 +26,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///private/var/folders/fd/fljdz0px6q306ncxtn22z25w0000gn/T/cf274818b205cac80cb872cce0627a65/Kapture%202022-03-02%20at%2021.05.23.gif' />
